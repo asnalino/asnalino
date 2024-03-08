@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**asnalino/asnalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hey! 👋
+I'm Asna, I am a developer from italy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🦔 Founder of [AsnaCode](https://asnacode.de)
+
+- 👨‍💻 Working at [KayodaNetworks](https://kayoda.de)
+
++ a lot more ;)
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
++ a lot more :D
+
+## Contact
+- [zaya@asna.host](https://gmail.com) as Email
+- [@KilyaFN](https://twitter.com/KilyaFN) on Twitter
+- [@asnalino](./) on Discord
