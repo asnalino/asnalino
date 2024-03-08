@@ -10,8 +10,8 @@ I'm Asna, I am a developer from italy.
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-- 👁️ SASS, CSS, Stylus
+- 👨‍💻 TypeScript, JavaScript, Lua, C, PHP, C#, Java, etc...
+- 👁️ CSS, Stylus
 - 💽 MySQL, SQL, Mongo
 + a lot more :D
 
