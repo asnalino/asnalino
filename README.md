@@ -5,7 +5,7 @@ I'm Asna, I am a developer from italy.
 
 - 🦔 Founder of [AsnaCode](https://asnacode.de)
 
-- 👨‍💻 Working at [KayodaNetworks](https://kayoda.de)
+- 👨‍💻 Founder of [KayodaNetworks](https://kayoda.de)
 
 + a lot more ;)
 
