@@ -1,7 +1,7 @@
 
 
 ## Hey! 👋
-I'm Asna, I am a developer from italy.
+I'm Asna, I am a developer from germany.
 
 - 🦔 Founder of [AsnaCode](https://asnacode.de)
 
